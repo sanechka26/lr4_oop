@@ -1,0 +1,5 @@
+C:/Users/Пользователь/Desktop/prog/cpp_oop_lab/lr4/build/CMakeFiles/Lab4.dir
+C:/Users/Пользователь/Desktop/prog/cpp_oop_lab/lr4/build/CMakeFiles/Lab4Tests.dir
+C:/Users/Пользователь/Desktop/prog/cpp_oop_lab/lr4/build/CMakeFiles/test.dir
+C:/Users/Пользователь/Desktop/prog/cpp_oop_lab/lr4/build/CMakeFiles/edit_cache.dir
+C:/Users/Пользователь/Desktop/prog/cpp_oop_lab/lr4/build/CMakeFiles/rebuild_cache.dir
